@@ -28,7 +28,7 @@
     "nodemon": "^3.1.11"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.2.2"
+    "@biomejs/biome": "2.3.5"
   },
   "packageManager": "pnpm@9.10.0"
 }
