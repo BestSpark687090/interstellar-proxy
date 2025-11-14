@@ -45,7 +45,7 @@ img {
 }
 
 .f-nav .icon:hover {
-   transform: translateY(-15%) scale(1.03);
+   transform: translateY(-15%) scale(103%);
    font-weight: 800;
 }
 
@@ -132,6 +132,7 @@ img {
    transition: all 0.2s ease;
 }
 
+/* biome-ignore lint/style/noDescendingSpecificity: false-positive */
 .navbar-link {
    margin-right: 5px;
 }

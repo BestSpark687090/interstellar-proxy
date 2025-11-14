@@ -1,23 +1,5 @@
 [
   {
-    "name": "! Create Custom App",
-    "image": "/assets/media/icons/custom.webp",
-    "categories": ["all"],
-    "custom": "true"
-  },
-  {
-    "name": "! Interstellar FAQ/Docs",
-    "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
-    "categories": ["all"]
-  },
-  {
-    "name": "! [NEW] Request A Game",
-    "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
-    "image": "/assets/media/icons/request.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Fancade",
     "link": "https://play.fancade.com",
     "image": "/assets/media/icon/fancade.jpg",
@@ -349,14 +331,6 @@
     "link": "https://www.silvergames.com/en/learn-to-fly-3/iframe",
     "image": "/assets/media/icons/learntofly3.webp",
     "categories": ["all"]
-  },
-  {
-    "name": "Neal.Fun",
-    "link": "https://neal.fun",
-    "image": "/assets/media/icons/nealfun.webp",
-    "categories": ["all"],
-    "error": "true",
-    "say": "Neal.fun does not work on Interstellar because of Cloudflare protection."
   },
   {
     "name": "YoHoHo.io",

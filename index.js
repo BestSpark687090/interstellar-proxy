@@ -113,11 +113,11 @@ routes.forEach((route) => {
   });
 });
 
-app.use((req, res, next) => {
+app.use((_req, res, _next) => {
   res.status(404).sendFile(path.join(__dirname, "static", "404.html"));
 });
 
-app.use((err, req, res, next) => {
+app.use((err, _req, res, _next) => {
   console.error(err.stack);
   res.status(500).sendFile(path.join(__dirname, "static", "404.html"));
 });

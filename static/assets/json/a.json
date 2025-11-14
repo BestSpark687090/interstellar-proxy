@@ -1,23 +1,5 @@
 [
   {
-    "name": "! Create Custom App",
-    "image": "/assets/media/icons/custom.webp",
-    "categories": ["all"],
-    "custom": "true"
-  },
-  {
-    "name": "! Interstellar FAQ/Docs",
-    "image": "/assets/media/icons/help_center_googlefonts.png",
-    "link": "https://docs.gointerstellar.app",
-    "categories": ["all"]
-  },
-  {
-    "name": "! [NEW] Request An App",
-    "link": "https://forms.gle/vwdHN3iPz5cLaHaMA",
-    "image": "/assets/media/icons/request.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Amazon",
     "link": "https://amazon.com/",
     "image": "/assets/media/icons/amazon.webp",
@@ -110,12 +92,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Firefox Web Browser",
-    "link": "https://replit.com/@cooleddie001/Firefox-Legacy?v=1",
-    "image": "/assets/media/icons/firefox.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Flix HQ",
     "link": "https://flixhq.to",
     "image": "/assets/media/icons/flixhq.webp",
@@ -134,22 +110,10 @@
     "categories": ["all"]
   },
   {
-    "name": "Google",
-    "link": "https://google.com",
-    "image": "/assets/media/icons/google.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "HBO MAX",
     "link": "https://www.hbomax.com/",
     "image": "/assets/media/icons/hbo.webp",
     "categories": ["all", "stream"]
-  },
-  {
-    "name": "Messenger",
-    "link": "https://messenger.com/",
-    "image": "/assets/media/icons/messenger.webp",
-    "categories": ["all", "social", "message"]
   },
   {
     "name": "MLB",
@@ -170,24 +134,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Paramount Plus",
-    "link": "https://paramountplus.com",
-    "image": "/assets/media/icons/paramount.webp",
-    "categories": ["all", "stream"]
-  },
-  {
-    "name": "Pinterest",
-    "link": "https://pinterest.com",
-    "image": "/assets/media/icons/pinterest.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Pixlr",
-    "link": "https://pixlr.com/",
-    "image": "/assets/media/icons/pix.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Poki",
     "link": "https://poki.com",
     "image": "/assets/media/icons/poki.webp",
@@ -200,46 +146,10 @@
     "categories": ["all"]
   },
   {
-    "name": "Soundcloud",
-    "link": "https://soundcloud.com",
-    "image": "/assets/media/icons/soundcloud.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Spotify",
-    "image": "/assets/media/icons/spotify.webp",
-    "categories": ["all"],
-    "error": true
-  },
-  {
-    "name": "Telegram",
-    "link": "https://web.telegram.org/",
-    "image": "/assets/media/icons/telegram.webp",
-    "categories": ["all", "social"]
-  },
-  {
     "name": "Tiktok",
     "link": "https://tiktok.com",
     "image": "/assets/media/icons/tiktok.webp",
     "categories": ["all", "social"]
-  },
-  {
-    "name": "Free Media Heck Yeah",
-    "link": "https://fmhy.pages.dev",
-    "image": "/assets/media/icons/fmhy.webp",
-    "categories": ["all", "media"]
-  },
-  {
-    "name": "Canva",
-    "link": "https://canva.com",
-    "image": "/assets/media/icons/canva.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Wikipedia",
-    "link": "https://en.wikipedia.org",
-    "image": "/assets/media/icons/wiki.webp",
-    "categories": ["all"]
   },
   {
     "name": "GOAL",
@@ -278,12 +188,6 @@
     "categories": ["all", "social"]
   },
   {
-    "name": "VS Code",
-    "link": "https://vscode.dev",
-    "image": "/assets/media/icons/vscode.webp",
-    "categories": ["all", "tool"]
-  },
-  {
     "name": "Y8 Games",
     "link": "https://y8.com/",
     "image": "/assets/media/icons/y8.webp",
@@ -302,18 +206,6 @@
     "link": "https://vid.puffyan.us/",
     "image": "/assets/media/icons/youtube.webp",
     "categories": ["all", "social", "stream"]
-  },
-  {
-    "name": "Whatsapp",
-    "image": "/assets/media/icons/whatsapp.webp",
-    "categories": ["all", "message", "social"],
-    "error": true
-  },
-  {
-    "name": "Wattpad",
-    "link": "https://www.wattpad.com/",
-    "image": "/assets/media/icons/wattpad.webp",
-    "categories": ["all", "social"]
   },
   {
     "name": "Discord - Login",
@@ -339,12 +231,6 @@
     "link": "https://nowgg.me",
     "image": "/assets/media/icons/shuttle.webp",
     "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Vercel",
-    "link": "https://vercel.com",
-    "image": "/assets/media/icons/vercel.webp",
-    "categories": ["all", "tool"]
   },
   {
     "name": "Amazon Luna",
@@ -376,34 +262,10 @@
     "partial": "true"
   },
   {
-    "name": "Snapchat",
-    "image": "/assets/media/icons/snap.webp",
-    "categories": ["all", "social", "message"],
-    "error": "true"
-  },
-  {
-    "name": "W3Schools",
-    "link": "https://www.w3schools.com",
-    "image": "/assets/media/icons/W3Schools.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Newgrounds",
     "link": "https://www.newgrounds.com",
     "image": "/assets/media/icons/newgrounds.webp",
     "categories": ["all", "social", "game"]
-  },
-  {
-    "name": "Instagram",
-    "image": "/assets/media/icons/insta.webp",
-    "categories": ["all", "social", "message"],
-    "error": "true"
-  },
-  {
-    "name": "Proton Mail",
-    "image": "/assets/media/icons/proton.webp",
-    "categories": ["all"],
-    "error": "true"
   },
   {
     "name": "SpaceHey",
@@ -456,14 +318,6 @@
     "categories": ["all", "ad"]
   },
   {
-    "name": "ChatGPT",
-    "link": "https://chat.openai.com",
-    "image": "/assets/media/icons/gpt.jpg",
-    "categories": ["all", "ai"],
-    "error": "true",
-    "say": "You must have a ChatGPT account to use the site, also the site may have some issues if you don't minimize tabs while using it."
-  },
-  {
     "name": "CopyLeaks.com",
     "link": "https://copyleaks.com/ai-content-detector",
     "image": "/assets/media/icons/cl.jpg",
@@ -504,18 +358,6 @@
     "link": "https://plagiarismdetector.net/",
     "image": "/assets/media/icons/pdn.png",
     "categories": ["all", "pc"]
-  },
-  {
-    "name": "Blooket Cheats",
-    "link": "https://github.com/005konz/Blooket-Cheats",
-    "image": "/assets/media/icons/bl.webp",
-    "categories": ["all", "bl", "cs"]
-  },
-  {
-    "name": "Edpuzzle Cheats",
-    "link": "https://github.com/ading2210/edpuzzle-answers",
-    "image": "/assets/media/icons/ep.png",
-    "categories": ["all", "ep", "cs"]
   },
   {
     "name": "DeepAI.org",
