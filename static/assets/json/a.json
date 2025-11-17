@@ -6,14 +6,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Steam",
-    "link": "https://store.steampowered.com/",
-    "image": "/assets/media/icons/steam.webp",
-    "categories": ["all"],
-    "say": "Steam can't actually be added because it's an app, not a website. This only lets you browse the Steam website, you can't actually play any games unless you use Geforce Now.",
-    "partial": true
-  },
-  {
     "name": "BuzzFeed Quizzes",
     "link": "https://www.buzzfeed.com/quizzes",
     "image": "/assets/media/icons/buzzfeed.webp",
@@ -26,12 +18,6 @@
     "categories": ["all", "social"]
   },
   {
-    "name": "Android",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
-    "image": "/assets/media/icons/android.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Temu",
     "link": "https://www.temu.com/",
     "image": "/assets/media/icons/temu.webp",
@@ -39,14 +25,9 @@
   },
   {
     "name": "Character AI",
-    "link": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
+    "link": "https://character.ai",
     "image": "/assets/media/icons/characterai.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Aptoide",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
-    "image": "/assets/media/icons/aptoide.webp",
+    "say": "What is wrong with you? - BestSpark687090",
     "categories": ["all", "emu", "android"]
   },
   {
@@ -221,12 +202,6 @@
     "categories": ["all", "stream", "media"]
   },
   {
-    "name": "Now.GG",
-    "link": "https://now.gg",
-    "image": "/assets/media/icons/now-gg.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Now.GG (NowGG.me) [Working]",
     "link": "https://nowgg.me",
     "image": "/assets/media/icons/shuttle.webp",
@@ -244,22 +219,6 @@
     "link": "https://gemini.google.com",
     "image": "/assets/media/icons/gemini.webp",
     "categories": ["all", "ai"]
-  },
-  {
-    "name": "Google Mail (Gmail)",
-    "link": "https://mail.google.com/",
-    "image": "/assets/media/icons/gmail.webp",
-    "categories": ["all", "mail"],
-    "blank": "true",
-    "partial": "true"
-  },
-  {
-    "name": "Outlook",
-    "link": "https://outlook.live.com/",
-    "image": "/assets/media/icons/outlook.webp",
-    "categories": ["all", "mail"],
-    "dy": "true",
-    "partial": "true"
   },
   {
     "name": "Newgrounds",
